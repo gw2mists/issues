@@ -1,3 +1,11 @@
+### 2020-02-28
+
+**Features**
+
+- *Design:* Added 404 page
+
+---
+
 ### 2020-02-22
 
 **Features**
