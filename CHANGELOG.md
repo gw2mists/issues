@@ -1,3 +1,11 @@
+### 2020-02-29
+
+**Content**
+
+- *Builds:* Updated Heal Firebrand build
+
+---
+
 ### 2020-02-28
 
 **Features**
