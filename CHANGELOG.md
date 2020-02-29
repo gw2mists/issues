@@ -7,6 +7,7 @@
 **Features**
 
 - *Design:* Worlds page revised for better clarity
+- *Functionality:* Added custom guild page header images
 
 ---
 
