@@ -4,6 +4,10 @@
 
 - *Builds:* Updated Heal Firebrand build
 
+**Features**
+
+- *Design:* Worlds page revised for better clarity
+
 ---
 
 ### 2020-02-28
