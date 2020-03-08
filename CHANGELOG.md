@@ -2,6 +2,14 @@
 
 **Content**
 
+- *Builds:* Updated the build section except the Support Tempest
+
+---
+
+### 2020-02-29
+
+**Content**
+
 - *Builds:* Updated Heal Firebrand build
 
 **Features**
