@@ -1,3 +1,16 @@
+### 2020-03-15
+
+**Content**
+
+- *Builds:* Updated all builds in the build section
+
+**Features**
+
+- *Design:* Reworked single build pages
+- *Functionality:* Added deep links for every build
+
+---
+
 ### 2020-03-07
 
 **Content**
