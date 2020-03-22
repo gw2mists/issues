@@ -1,3 +1,12 @@
+### 2020-03-22
+
+**Features**
+
+- *Design:* Added Kills and ppt statistics to guild pages
+- *Functionality:* Added deep links for player leaderboards
+
+---
+
 ### 2020-03-15
 
 **Content**
