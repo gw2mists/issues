@@ -4,7 +4,7 @@
 
 - *Design:* Added Kills and ppt statistics to guild pages
 - *Functionality:* Added deep links for player leaderboards
-- *Functionality:* Registered Twitch accounts are now directly considered by the system
+- *Functionality:* Entered Twitch accounts are now directly considered by the system
 
 ---
 
