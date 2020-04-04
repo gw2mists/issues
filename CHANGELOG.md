@@ -1,3 +1,16 @@
+### 2020-04-04
+
+**Features**
+
+- *Design:* Redesign of the user & account section
+- *Functionality:* "Password forgotten" now works with email address instead of API key
+
+**Bugfixes**
+
+- *Functionality:* Spaces in the input field for guild contact persons are no longer deleted
+
+---
+
 ### 2020-03-22
 
 **Features**
