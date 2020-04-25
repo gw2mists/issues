@@ -1,3 +1,12 @@
+### 2020-04-25
+
+**Features**
+
+- *Functionality:* Added custom challenges for registered users
+- *Functionality:* Added badges and additional features for supporters
+
+---
+
 ### 2020-04-04
 
 **Features**
