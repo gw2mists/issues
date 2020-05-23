@@ -4,6 +4,9 @@
 
 - *Functionality:* Entered YouTube accounts are now directly considered by the system
 - *Functionality:* Guild pages now display up to 9 guild related youtube videos (ordered by upload date descending)
+
+**Content**
+
 - *Builds:* Updated Power Scourge build
 
 ---
