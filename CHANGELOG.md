@@ -2,6 +2,16 @@
 
 **Features**
 
+- *Functionality:* Entered YouTube accounts are now directly considered by the system
+- *Functionality:* Guild pages now display up to 9 guild related youtube videos (ordered by upload date descending)
+- *Builds:* Updated Power Scourge build
+
+---
+
+### 2020-04-25
+
+**Features**
+
 - *Functionality:* Added custom challenges for registered users
 - *Functionality:* Added badges and additional features for supporters
 
