@@ -1,3 +1,12 @@
+### 2020-06-05
+
+**Features**
+
+- *Functionality:* Added basic zoom component to charts on matches page
+- *Functionality:* Added charts for kills/deaths per map on matches page
+
+---
+
 ### 2020-05-23
 
 **Features**
