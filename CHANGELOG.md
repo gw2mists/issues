@@ -1,3 +1,15 @@
+### 2020-06-10
+
+**Features**
+
+- *Functionality:* Added language flag for guilds
+- *Functionality:* Added timezone flag for guilds
+- *Functionality:* Removed guild type (e.g. WvW/GvG/Roaming/Community)
+- *Functionality:* Added guild activities per weekday with time specification
+- *Functionality:* Show time specification of raid/gvg in raid or gvg radar in timezone of the browser
+
+---
+
 ### 2020-06-05
 
 **Features**
