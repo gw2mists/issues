@@ -1,3 +1,12 @@
+### 2020-06-11
+
+**Content**
+
+- *Builds:* Added Support Chronomancer build
+- *Builds:* Added Power Scrapper build
+
+---
+
 ### 2020-06-10
 
 **Features**
