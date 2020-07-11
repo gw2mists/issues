@@ -1,3 +1,16 @@
+### 2020-07-11
+
+**Features**
+
+- *Design:* Redesign of build section
+- *Functionality:* Added deep links for guild leaderboards
+
+**Content**
+
+- *Builds:* Updated all WvW zerg builds
+
+---
+
 ### 2020-06-11
 
 **Content**
