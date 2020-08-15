@@ -1,3 +1,12 @@
+### 2020-08-15
+
+**Features**
+
+- *Functionality:* Added option to bind the world of a guild to a user account. The world of a guild will be automatically updated whenever the binded account transfer to another world.
+- *Builds:* Updated order of trinkets in builds to match the order ingame
+
+---
+
 ### 2020-07-11
 
 **Features**
