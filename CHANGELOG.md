@@ -1,3 +1,11 @@
+### 2020-08-16
+
+**Features**
+
+- *Functionality:* Added a comment section to the blog posts and every build & guide
+
+---
+
 ### 2020-08-15
 
 **Features**
