@@ -1,13 +1,16 @@
 ### 2020-11-13
 
 **.com domain**
+
 The website is now also available at gw2mists.com. All requests from gw2mists.de will be redirected to the new domain
 
 **Featured content creators**
+
 In the future we will work more closely with other content creators for WvW to make it more popular again and bundle the content via gw2mists.
 Featured content creators will be pinned to the top of the twitch & youtube sections.
 
 **Challenges**
+
 The challenge system was reworked and simplified to make it more accessible for everyone.
 Users are now able to create their own challenges and display them on the challenge section of the website.
 
