@@ -1,3 +1,28 @@
+### 2020-11-13
+
+**.com domain**
+The website is now also available at gw2mists.com. All requests from gw2mists.de will be redirected to the new domain
+
+**Featured content creators**
+In the future we will work more closely with other content creators for WvW to make it more popular again and bundle the content via gw2mists.
+Featured content creators will be pinned to the top of the twitch & youtube sections.
+
+**Challenges**
+The challenge system was reworked and simplified to make it more accessible for everyone.
+Users are now able to create their own challenges and display them on the challenge section of the website.
+
+**Features**
+
+- *Functionality:* Added a kill leaderboard per tier on the matches page
+- *Functionality:* Removed the country flag as indicator for the language of a guild
+- *Functionality:* The worlds overview now shows the population (only accounts registered on gw2mists) change of each world in the last 2 months
+
+**Content**
+
+- *Builds:* Updated all WvW zerg builds
+
+---
+
 ### 2020-08-16
 
 **Features**
