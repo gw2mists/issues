@@ -1,5 +1,9 @@
 ### 2020-11-13
 
+**Design overhaul**
+
+Based on the feedback we received, the design of the website was adapted. The Frontpage now features the latest blog articles and Guild Wars 2 Twitch streamers
+
 **.com domain**
 
 The website is now also available at gw2mists.com. All requests from gw2mists.de will be redirected to the new domain
