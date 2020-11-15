@@ -1,3 +1,9 @@
+### 2020-11-15
+
+**Features**
+
+- *Functionality:* Added flags for guilds back as seperate option
+
 ### 2020-11-13
 
 **Design overhaul**
