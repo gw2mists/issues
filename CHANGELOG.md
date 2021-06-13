@@ -1,3 +1,9 @@
+### 2021-06-12
+
+**Features**
+
+- *Functionality:* The Discord hook for YouTube only posts videos that are shorter than 1 hour
+
 ### 2020-11-15
 
 **Features**
