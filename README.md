@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://gw2mists.de">gw2mists.de</a>
+  <a href="https://gw2mists.com">gw2mists.com</a>
   <br><br>
   <b>
-    This repository includes all bug reports, ideas, milestones and also planned features for <a href="https://gw2mists.de">gw2mists.de</a>.<br>
+    This repository includes all bug reports, ideas, milestones and also planned features for <a href="https://gw2mists.com">gw2mists.com</a>.<br>
   </b>
   Feel free to report bugs & ideas as new issues. Also vote or comment on anything you would like to see added.<br><br>
 </p>
