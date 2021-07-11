@@ -1,3 +1,21 @@
+### 2021-07-11
+
+**Design overhaul**
+
+Based on the feedback we received, the design of the website was adapted:
+
+- The navigation bar is now fixed to the top of the page
+- The items in the navigation bar are now sorted
+- Added direct links to discord, twitter & github to the frontpage
+- The builds overview now show the role & weapons of the build
+- Builds now have their content split up in different tabs: Build, Guide (if available), Videos (if available), Comments
+- Improved matchup table design
+
+**Features**
+
+- *Functionality:* Added a page to submit feedback
+- *Functionality:* Added option to report outdated guild data in GvG/Raid radar
+
 ### 2021-06-12
 
 **Features**
