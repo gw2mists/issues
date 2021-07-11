@@ -16,17 +16,23 @@ Based on the feedback we received, the design of the website was adapted:
 - *Functionality:* Added a page to submit feedback
 - *Functionality:* Added option to report outdated guild data in GvG/Raid radar
 
+---
+
 ### 2021-06-12
 
 **Features**
 
 - *Functionality:* The Discord hook for YouTube only posts videos that are shorter than 1 hour
 
+---
+
 ### 2020-11-15
 
 **Features**
 
 - *Functionality:* Added flags for guilds back as seperate option
+
+---
 
 ### 2020-11-13
 
