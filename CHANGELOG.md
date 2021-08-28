@@ -1,3 +1,20 @@
+### 2021-08-28
+
+**Preperation for the alliance beta**
+
+- Added a alliance overview page
+- Added the option to create and manage an alliance per Guild Wars 2 account in the settings
+- Added an alliance tab in the guild settings to allow guilds to accept an invite or leave an alliance
+
+**Design**
+
+- Removed the "WvW & GvG" menu point
+- Added "Alliances & Guilds" menu point
+- Added "Worlds" menu point
+- Added "Challenges" menu point
+
+---
+
 ### 2021-07-11
 
 **Design overhaul**
