@@ -1,3 +1,34 @@
+### 2023-07-11
+
+- Added alliance leaderboard
+- Added email field to sign up dialog
+- Added login via Discord
+
+---
+
+### 2023-06-13
+
+**Keep list of active guilds up to date**
+
+Guilds whose settings have not been changed in the last 3 months are considered inactive and automatically made invisible. The date when this happens is displayed on the guild's settings page in the guild leader's account area.
+
+The last change date has been set to today for all guilds, so guild leaders will need to make a change in about 3 months' time
+
+---
+
+### 2022-11-20
+
+**Community builds [BETA]**
+
+- The roaming & smallscale build sections were removed entirely due to not being updated for a long period of time.
+- Added the option to save, manage and share your own WvW builds (Menu point "Own Builds" in builds)
+- Added a list for published builds (via "Own builds") with basic filtering and rating (Menu point "Community builds" in builds)
+
+This feature is still in development and will receive some more iterations before leaving "beta". 
+If you have feedback please send it via PM here in Discord. 
+
+---
+
 ### 2021-08-28
 
 **Preperation for the alliance beta**
