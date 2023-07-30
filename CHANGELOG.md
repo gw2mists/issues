@@ -1,3 +1,12 @@
+### 2023-07-30
+
+**Changes for supporters**
+
+- Added text field to the settings for a description on the profile page
+- Added color picker to change custom name color
+
+---
+
 ### 2023-07-11
 
 - Added alliance leaderboard
